@@ -1,0 +1,24 @@
+========================
+Instructions
+========================
+
+In this folder there is an image called "task.png".
+
+All you have to do is convert the layout given in the PNG image into HTML format.
+
+The name of the HTML file should be yourname.html (e.g. prashant.html or akshay.html)
+
+
+
+========================
+Tips
+========================
+
+You can use following resources to learn enough about HTML to do this task. 
+
+
+https://medium.freecodecamp.org/learn-html-in-5-minutes-ccd378d2ab72
+
+https://learn.shayhowe.com/html-css/building-your-first-web-page/
+
+https://www.abeautifulsite.net/how-to-make-rounded-images-with-css
